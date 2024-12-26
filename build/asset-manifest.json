@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eba83215.css",
+    "main.js": "/static/js/main.f06f9b59.js",
+    "static/media/loading.webp": "/static/media/loading.52ad828aa36953eeb5fa.webp",
+    "index.html": "/index.html",
+    "static/media/coinsmall.webp": "/static/media/coinsmall.f6f06ff640e5df45b650.webp",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.a5b7019dda60358716061674ac9c42b4.svg",
+    "static/media/twitter.svg": "/static/media/twitter.a24e975c9f26cf2cfa88cf838266778d.svg",
+    "static/media/facebook.svg": "/static/media/facebook.08ed0d64ea14d23ab0528a12be12499c.svg",
+    "static/media/telegram.svg": "/static/media/telegram.c7b359a0105dea5ce0362d65465c4633.svg"
+  },
+  "entrypoints": [
+    "static/css/main.eba83215.css",
+    "static/js/main.f06f9b59.js"
+  ]
+}
